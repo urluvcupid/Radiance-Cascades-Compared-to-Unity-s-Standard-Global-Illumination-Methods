@@ -48,3 +48,10 @@ Intel Core i7-13620H
 
 MIT
 
+## Project Overview
+This project explores Radiance Cascades and compares them with Unity's standard Global Illumination methods
+
+## Project Objectives
+-Understand how Radiance Cascades work.
+-Compare different global illumination methods.
+-Explore rendering performance and quality.
